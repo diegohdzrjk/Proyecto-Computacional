@@ -1,6 +1,7 @@
 # Proyecto para Física Computacional 2017-1 UNAM
 
 El proyecto intenta reproducir las bandas de estructura electronica de varios potenciales periodicos 1D y 2D.
+
 1. Los papers que son necesarios leer son, en orden:
   * (casi todo) Tesis-Calculo de bandas de energia para potenciales periodicos 1D
   * The harmonic oscilator in quantum mechanics
