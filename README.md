@@ -2,18 +2,16 @@
 
 El proyecto intenta reproducir las bandas de estructura electronica de varios potenciales periodicos 1D y 2D.
 
-## Issues por resolver
-1. En el notebook "Kronig_Penney_model_1D_numeric.ipynb" donde se realiza la comparación entre la matriz hamiltoniana encontrada de forma numérica y de forma analítica hay un régimen para valores de $0<\rho<0.1$ en donde ambos modelos difieren significativamente...
-    - Hallar el origen del problema, creo que tiene que ver con la integración numérica que se hace.
-
 ## Metas por realizar
 
 1. Desarrollar los modelos análogos al Kronig-Penney de forma analítica, como ya está hecho en el notebook "Kronig_Penney_model_1D.ipynb" para los potenciales
+    - Kronig Penney Potencial $\checkmark$
     - Harmonic well
     - Linear well
     - Inverted Harmonic well
 
 2. Desarrollar los modelos análogos al Kronig-Penney de forma numérica, como ya está hecho en el notebook "Kronig_Penney_model_1D_numeric.ipynb" para los potenciales
+    - Kronig Penney Potencial $\checkmark$
     - Harmonic well
     - Linear well
     - Inverted Harmonic well
