@@ -16,20 +16,14 @@ El proyecto intenta reproducir las bandas de estructura electronica de varios po
     - Linear well
     - Inverted Harmonic well
 
-3. Realizar los modelos análogos al Kronig-Penney de forma numérica calculando los coeficientes de la matriz Hamiltoniana a partir de la herramienta de fft o ifft de numpy, para los potenciales
-    - Kronig Penney Potencial
-    - Harmonic well
-    - Linear well
-    - Inverted Harmonic well
+3. Realizar comparaciones cualitativas de las estructuras de bandas, banda a banda, en los distintos potenciales.
 
-4. Realizar comparaciones cualitativas de las estructuras de bandas, banda a banca, en los distintos potenciales.
-
-5. Desarrollar los modelos análogos al Kronig-Penney de forma analítica, como ya está hecho en el notebook "Kronig_Penney_model_1D.ipynb" para potenciales combinados
+4. Desarrollar los modelos análogos al Kronig-Penney de forma analítica, como ya está hecho en el notebook "Kronig_Penney_model_1D.ipynb" para potenciales combinados
     - Varios pozos rectangulares
     - Pozo armónico con pozos armónicos invertidos
     - ...
 
-6. Desarrollar el modelo de Kronig-Penney en 2D
+5. Desarrollar el modelo de Kronig-Penney en 2D
 
 
 
